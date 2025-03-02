@@ -657,3 +657,9 @@ input:focus, textarea:focus {
     list-style-type: none;
     padding-left: 0; 
 }
+.about-text {
+    text-align: justify;
+    line-height: 1.6; /* Improves readability */
+    word-spacing: 1px; /* Adjusts space between words */
+}
+
