@@ -26,7 +26,6 @@
   - Google Sheets integration
   - Email notifications
   - Rate limiting
-- **PDF Generator**: One-click portfolio download
 - **Performance Optimized**:
   - Lazy loading
   - Image optimization
