@@ -1,4 +1,4 @@
-# Alsan POkharel - Portfolio Website
+# Alsan Pokharel - Portfolio Website
 
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://yourusername.github.io/portfolio)
